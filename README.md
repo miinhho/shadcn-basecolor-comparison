@@ -42,3 +42,7 @@ Open `index.html` in any browser!
 
 Feel free to use or modify this comparison in your own projects!
 
+## Translation
+
+- [Korean (한국어)](https://github.com/miinhho/shadcn-basecolor-comparison/tree/main/translate/ko/README.md)
+- [Japanese (日本語)](https://github.com/miinhho/shadcn-basecolor-comparison/tree/main/translate/ja/README.md)
